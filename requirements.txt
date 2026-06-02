@@ -1,0 +1,40 @@
+# Lip Reading Project Requirements
+
+# Core dependencies
+Python==3.12
+
+# Media Processing
+mediapipe==0.10.21
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+
+# Deep Learning
+tensorflow==2.14.0
+keras==2.14.0
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.2
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+pillow==10.0.0
+
+# Web Interface
+streamlit==1.27.0
+streamlit-webrtc==0.47.0
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+joblib==1.3.2
+scikit-learn==1.3.0
+
+# Audio (optional)
+librosa==0.10.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
